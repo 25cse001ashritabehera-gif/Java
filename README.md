@@ -1,7 +1,6 @@
 
 
-#Q3:
-Write a java program to find if the given number is palindrom or not.
+
 #Q4:
 Write a java program to find if the given number is prime or not.
 #Q5:
