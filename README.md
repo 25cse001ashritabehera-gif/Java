@@ -1,6 +1,5 @@
 
-#Q2:
-Write a program to print the sum of all the digits of a given number.
+
 #Q3:
 Write a java program to find if the given number is palindrom or not.
 #Q4:
