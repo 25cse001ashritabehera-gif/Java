@@ -1,3 +1,6 @@
+//#EXPERIMENT - 1 (INPUT OUTPUT IN JAVA)
+//#Q4:Write a java program to find if the given number is prime or not.
+
 import java.util.Scanner;
 
 class test4 {
