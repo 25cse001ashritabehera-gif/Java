@@ -1,6 +1,4 @@
-##EXPERIMENT - 3 (CLASS, OBJECT, STATIC METHOD, CONSTRUCTOR)
-#Q1.
-Create aa class box that uses a parameterized constructor to initialize the dimensions of a box. The dimensions of the box are width, height, and depth. The class should have a method that can return the volume of the box. Create an object of the box class and test the functionalities.
+
 #Q2.
 Create a new class called calculator with the following methods:
    1. A static method called powerInt(int num1, int num2)
