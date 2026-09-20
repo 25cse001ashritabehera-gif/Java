@@ -1,3 +1,6 @@
+//# EXPERIMENT - 1 (INPUT OUTPUT IN JAVA)
+//#Q2:Write a program to print the sum of all the digits of a given number.
+
 import java.util.Scanner;
 class test2
   {
