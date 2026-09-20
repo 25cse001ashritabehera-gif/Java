@@ -1,3 +1,6 @@
+//# EXPERIMENT - 1 (INPUT OUTPUT IN JAVA)
+//#Q3:Write a java program to find if the given number is palindrom or not.
+
 class test3
   {
     public static void main(String args[])
