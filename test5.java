@@ -1,3 +1,7 @@
+//#EXPERIMENT -1 (INPUT OUTPUT IN JAVA)
+//#Q5: Write a program to print first five values which are divisible by 2, 3, and 5.
+
+
 class test5 {
     public static void main(String[] args) {
         int count = 0;
