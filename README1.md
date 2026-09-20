@@ -1,12 +1,5 @@
 
-#Q2.
-Create a new class called calculator with the following methods:
-   1. A static method called powerInt(int num1, int num2)
-      This method should return num1 to the power num2
-   2. A static method called powerDouble(double num1, int num2)
-      This method should return num1 to the power of num2
-   3. Invoke both the methods and test the functionalities.
-HINT : Use Math.power(x, y)
+
 #Q3.
 Design a class that can be used as a health care professional to keep track of patient's vital statistics.
 The following are the details:
