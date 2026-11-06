@@ -1,5 +1,5 @@
 //# EXPERIMENT - 1 (INPUT OUTPUT IN JAVA)
-//#Q3:Write a java program to find if the given number is palindrom or not.
+//#Q3:Write a java program to find if the given number is palindrome or not.
 
 class test3
   {
